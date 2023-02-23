@@ -1,2 +1,2 @@
 // Use your marketplace contract address here
-export const marketplaceContractAddress = '0xCFA7cA9fD5d32A6E9104aC849b1094Ea8c71e294';
+export const marketplaceContractAddress = '0x5dbc7b840baa9dabcbe9d2492e45d7244b54a2a0';
